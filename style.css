@@ -5,7 +5,7 @@
 body {
 .cabecalho {
     background-color: #ec1299;
-    color: white;
+    color: rgb(0, 0, 0)55, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -24,7 +24,7 @@ body {
 
 .cabecalho-lista-item a{
     text-decoration: none; 
-    color: white;
+    color: rgb(219, 216, 41);
 }
 .escola-imagem{
     width: 25%;
@@ -32,7 +32,7 @@ body {
 
 #escola{
     background-image: linear-gradient(#d41919,#138ed4);
-    color:white;
+    color:rgb(48, 212, 130);
     display: flex;
     justify-content: center;
     align-items: center;
